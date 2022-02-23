@@ -2,6 +2,7 @@
     "require": {
         "guzzlehttp/guzzle": "^7.2",
         "react/event-loop": "^1.2.0",
-        "react/stream": "^1.2.0"
+        "react/stream": "^1.2.0",
+        "cboden/ratchet": "^0.4.4"
     }
 }
